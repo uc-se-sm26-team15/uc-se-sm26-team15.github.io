@@ -2,4 +2,4 @@
 
 This is the project site for the messenger scrum project in EECE 3093C.
 
-[Link to the GitHub pages site](uc-se-sm26-team15.github.io)
+[Link to the GitHub pages site](https://uc-se-sm26-team15.github.io)
